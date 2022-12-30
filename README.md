@@ -1,7 +1,6 @@
 # p2602hmtpy
 Zyxel P-2602hmt Keygen
-
-ESSID : privatDDDDlll
+ESSID: privatDDDDlll
 
 Usage: python3 p2602hmt.py 404a039777de
 
